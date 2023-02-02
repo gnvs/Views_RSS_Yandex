@@ -1,6 +1,8 @@
 # Форк Views RSS: Yandex Elements для Yandex Turbo 
 # Пока под Drupal 8.
 
+Todo: D9
+
 Все из-за заебистых турбо-страниц для новостных и статейных сайтов...
 
 Оригинальный проект на d.org - https://www.drupal.org/project/views_rss_yandex
