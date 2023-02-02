@@ -3,7 +3,6 @@
 /**
  * @file
  * Provides Yandex namespace and <item> elements for Views RSS module.
- * Todo: комменты на русский нужно будет перевести
  */
 
 use Drupal\Core\Url;
